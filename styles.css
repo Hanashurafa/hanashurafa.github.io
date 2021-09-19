@@ -1,0 +1,9 @@
+body { /* indicate the tag name. CSS (cascading style sheet) (html:hyper text markup language) */
+    background:green; /*backgroun to be green */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: lightgray;
+    text-align:center;
+}

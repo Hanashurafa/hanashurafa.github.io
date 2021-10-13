@@ -1,0 +1,21 @@
+body { /* indicate the tag name. CSS (cascading style sheet) (html:hyper text markup language) */
+    background:darkgrey; /*backgroun to be green */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment {
+    display:flex;
+    padding: 10px;
+    margin:10px;
+    background:burlywood;
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+}
+
+h1 {
+    color:darkslategrey;
+    text-align:center;
+}

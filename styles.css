@@ -1,5 +1,5 @@
 body { /* indicate the tag name. CSS (cascading style sheet) (html:hyper text markup language) */
-    background:darkgrey; /*backgroun to be green */
+    background: #00401A; /*backgroun to be green */
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -7,15 +7,35 @@ body { /* indicate the tag name. CSS (cascading style sheet) (html:hyper text ma
     display:flex;
     padding: 10px;
     margin:10px;
-    background:burlywood;
+    background: #F2F2F2;
+    border-radius:40px;
 }
 
 .assignment img {
     width:200px;
-    padding:10px;
+    margin:12px;
+    border:6px solid #405a06;
+}
+
+.assignment img:hover {
+    border:6px solid rgb(202, 172, 0);
 }
 
 h1 {
-    color:darkslategrey;
+    color:#E9D3C6;
     text-align:center;
+}
+
+h1:hover {
+    color:rgb(202, 172, 0);
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color: #3B590E;
+}
+
+a:hover {
+    color:rgb(202, 172, 0);
 }

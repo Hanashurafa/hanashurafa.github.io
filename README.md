@@ -1,4 +1,4 @@
-YouTube video Paper Prototyping https://www.youtube.com/watch?v=xIEZQtwX-Hs
+YouTube video Paper Prototyping -> https://www.youtube.com/watch?v=xIEZQtwX-Hs
 
-Website file:///C:/Users/hanas/Desktop/CSCE190/index.html
+Github Website -> https://hanashurafa.github.io/
 # hanashurafa.github.io
